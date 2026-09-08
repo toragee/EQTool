@@ -1,0 +1,10 @@
+# 빌드 산출물 / 백업 / 압축본
+*.zip
+*.bak
+build/
+.vscode/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
